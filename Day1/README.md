@@ -1,6 +1,6 @@
 # Technical training - Day 1 (Arrays & Strings)
 
-## Array's Recap
+## Arrays
 
 - It is a reference to the pointer.
 - It stores similar data types.
@@ -15,3 +15,13 @@
 - [Q5. Large house in Toyland problem](LargeHorseInToyland.java)
 - [Q6. Find the smallest missing positive number](SmallestPositiveNo.java)
 - [Q7. Find the Upper Triangular Matrix](UpperTriangularMatrix.java)
+- [Q8. Sum of Zig Zag pattern](SumOfZigZag.java)
+- [Q9. Spiral Pattern](SpiralPattern.java)
+
+## Strings
+
+### Programs
+
+- [Q10. Count the number of vowels in a string](CountStrings.java)
+- [Q11. Check for Palindrome string](Palindrome.java)
+- [Q12. Wordakshari](Wordakshari.java)
