@@ -3,9 +3,6 @@
 
 import java.util.Scanner;
 
-/**
- * This class is used to count the number of unique elements in an array.
- */
 public class UniqueCounter {
     public static void main(String[] args) {
         System.out.println("Enter the elements of array:");

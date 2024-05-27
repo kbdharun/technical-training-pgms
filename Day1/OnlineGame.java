@@ -25,7 +25,7 @@
 import java.util.Scanner;
 
 public class OnlineGame {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
 
         // Step 1: Read the size of the array and its elements
@@ -43,7 +43,7 @@ public class OnlineGame {
             while (array[left] % 2 == 0 && left < right)
                 left++;
 
-            while (array[right] % 2 == 1 && left < right)
+            while (array[right] % 2 != 0 && left < right)
                 right--;
 
             if (left < right) {
