@@ -24,6 +24,7 @@ public class CountStrings {
             if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch =='u')
                 count++;
         }
+        sc.close();
         System.out.println("Number of vowels: "+count);
     }
 }

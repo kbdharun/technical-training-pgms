@@ -31,6 +31,7 @@ public class Counter1 {
         for(int i = 0; i < n; i++) {
             distinctElements.add(s.nextInt());
         }
+        s.close();
         System.out.println("There are " + distinctElements.size() + " distinct elements in the array.");
     }
 }

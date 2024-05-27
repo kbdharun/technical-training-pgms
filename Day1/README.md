@@ -5,7 +5,7 @@
 - It is a reference to the pointer.
 - It stores similar data types.
 
-### Programs
+### Array Programs
 
 - [Q1. Find the number of unique elements in an array](UniqueCounter.java)
 - [Q1A. Find the number of unique elements in an array (using HashSet)](Counter1.java)
@@ -20,7 +20,7 @@
 
 ## Strings
 
-### Programs
+### String Programs
 
 - [Q10. Count the number of vowels in a string](CountStrings.java)
 - [Q11. Check for Palindrome string](Palindrome.java)

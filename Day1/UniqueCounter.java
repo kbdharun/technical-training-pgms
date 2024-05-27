@@ -13,6 +13,7 @@ public class UniqueCounter {
         for(int i = 0; i < n; i++) {
             arr[i] = s.nextInt();
         }
+        s.close();
         int unique = 0;
         // Checking for unique elements
         for(int i = 0; i < n; i++) {

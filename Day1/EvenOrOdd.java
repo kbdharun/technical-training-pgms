@@ -39,6 +39,7 @@ public class EvenOrOdd {
                 oddSum += arr[i];
             }
         }
+        s.close();
         System.out.println("The sum of the even numbers in the array is " + evenSum);
         System.out.println("The sum of the odd numbers in the array is " + oddSum);
     }
