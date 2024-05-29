@@ -9,3 +9,4 @@
 - [Q3. To implement Stack using Linked Lists](LLStack.java)
 - [Q4. To implement Stack using Collections](ColStack.java)
 - [Q5. To find the length of Longest Valid Parentheses using Stack](LVPStack.java)
+- [Q6. Implement Infix to Postfix conversion using Stack](InfToPosStack.java)
