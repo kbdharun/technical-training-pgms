@@ -10,3 +10,7 @@
 - [Q4. To implement Stack using Collections](ColStack.java)
 - [Q5. To find the length of Longest Valid Parentheses using Stack](LVPStack.java)
 - [Q6. Implement Infix to Postfix conversion using Stack](InfToPosStack.java)
+- [Q7. Implement Infix to Prefix conversion using Stack](InfToPreStack.java)
+- [Q8. Implement Balanced Parentheses using Stack](BalParStack.java)
+- [Q9. Implement Reversing a Queue using Stack](RevQueStack.java)
+- [Q10. Evaluate Postfix Expression using Stack](EvaPostExp.java)
